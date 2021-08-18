@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>io.github.anantharajuc</groupId>
-	<artifactId>Spring-Boot-MongoDB</artifactId>
+	<artifactId>Spring-Boot-DynamoDB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
-	<name>Spring-Boot-MongoDB</name>
-	<url>https://github.com/AnanthaRajuC/Spring-Boot-MongoDB</url>
+	<name>Spring-Boot-DynamoDB</name>
+	<url>https://github.com/AnanthaRajuC/Spring-Boot-DynamoDB</url>
 	<description>Learning the cross-platform document-oriented database program MongoDB with the Java-based framework Spring Boot.</description>
 
 	<!-- Start - Spring Boot - MongoDB Project Owner -->
@@ -25,8 +25,8 @@
 	
 	<!-- Start - Spring Boot - MongoDB source repository -->
     <scm>
-        <connection>https://github.com/AnanthaRajuC/Spring-Boot-MongoDB.git</connection>
-        <developerConnection>git@github.com:AnanthaRajuC/Spring-Boot-MongoDB.git</developerConnection>
+        <connection>https://github.com/AnanthaRajuC/Spring-Boot-DynamoDB.git</connection>
+        <developerConnection>git@github.com:AnanthaRajuC/Spring-Boot-DynamoDB.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     <!-- End - Spring Boot - MongoDB source repository -->
@@ -34,7 +34,7 @@
 	<!-- Start - Spring Boot - MongoDB issue management -->
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/AnanthaRajuC/Spring-Boot-MongoDB/issues</url>
+        <url>https://github.com/AnanthaRajuC/Spring-Boot-DynamoDB/issues</url>
     </issueManagement>
     <!-- End - Spring Boot - MongoDB issue management -->
 
@@ -53,7 +53,7 @@
 		<swagger-annotations.version>1.6.1</swagger-annotations.version>
 		
 		<!--  Sonar properties  -->
-		<sonar.projectKey>AnanthaRajuC_Spring-Boot-MongoDB</sonar.projectKey>
+		<sonar.projectKey>AnanthaRajuC_Spring-Boot-DynamoDB</sonar.projectKey>
 		<sonar.organization>anantharajuc</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
